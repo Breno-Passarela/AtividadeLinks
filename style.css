@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: justify;
+}
+
+body {
+    margin-top: 10px;
+    background-color: #151922;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 20px;
+}
